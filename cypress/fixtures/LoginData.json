@@ -1,0 +1,73 @@
+{
+
+    "api_inputs": [
+      {
+        "status_code" : 200,
+        "error_code" : 400,
+        "id" : "id",
+        "token" : "token",
+        "r_token" : "QpwL5tke4Pnpja7X4",
+        "error_message_missemail" : "Missing email or username",
+        "error_message_misspwd" : "Missing password",
+        "error_message_usrnotfound" : "user not found",
+        "error_message_partemail" : "Missing password",
+        "error_message_partpwd" : "Missing email or username"
+        
+      },
+  
+    {  
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+    },
+    {  
+      "email": "",
+      "password": "cityslicka"
+      },
+      {
+      "email": "",
+      "password": ""
+      },
+    {  
+      "email": "eve.holt@reqres.in",
+      "password": "password"
+      },
+  
+      {  
+        "email": "eve.holt@reqres.in",
+        "password": ""
+        },
+      {  
+        "email": "abc",
+        "password": "cityslicka"
+        },
+  
+      {  
+        "email": "eve1.holt@reqres.in",
+        "password": "password"
+      },
+  
+      {  
+        "email": "eve.holt@reqres.in"
+        
+        },
+    {  
+        "email": "test@reqres.in"
+        
+        },
+  
+    {  
+        
+          "password": "testpassword"
+        }, 
+    {  
+        
+        "password": "cityslicka"
+      },
+      {  
+        
+        "password": ""
+      }  
+  
+    ]
+  
+  }

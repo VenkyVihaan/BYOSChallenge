@@ -8,8 +8,9 @@ class universitySearch {
            method: 'GET',
            url: url, 
            qs: {
-              // name: this.idata.name
-             name: name
+
+            name: name
+            
             }
            
        }).then((resp) => {
